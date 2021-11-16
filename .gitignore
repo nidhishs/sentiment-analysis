@@ -1,6 +1,23 @@
-bin
-include
-lib
-*.cfg
+venv
 __pycache__
-*.csv
+.DS_Store
+api/*.env
+
+sensavis/node_modules
+sensavis/dist
+
+
+# Log files
+sensavis/npm-debug.log*
+sensavis/yarn-debug.log*
+sensavis/yarn-error.log*
+sensavis/pnpm-debug.log*
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
