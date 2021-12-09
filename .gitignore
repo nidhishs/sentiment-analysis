@@ -3,15 +3,15 @@ __pycache__
 .DS_Store
 api/*.env
 
-sensavis/node_modules
-sensavis/dist
+sentavis/node_modules
+sentavis/dist
 
 
 # Log files
-sensavis/npm-debug.log*
-sensavis/yarn-debug.log*
-sensavis/yarn-error.log*
-sensavis/pnpm-debug.log*
+sentavis/npm-debug.log*
+sentavis/yarn-debug.log*
+sentavis/yarn-error.log*
+sentavis/pnpm-debug.log*
 
 # Editor directories and files
 .idea
