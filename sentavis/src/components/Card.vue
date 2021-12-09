@@ -1,7 +1,7 @@
 <template>
     <div class="card">
         <div class="card__info">
-            <div class="icon"></div>
+            <div class="icon">😶</div>
             <div class="name-handle">
                 <div class="name"></div>
                 <div class="handle"></div>
